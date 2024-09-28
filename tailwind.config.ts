@@ -8,7 +8,7 @@ import { skeleton } from '@skeletonlabs/tw-plugin';
 import typography from '@tailwindcss/typography';
 import forms from '@tailwindcss/forms';
 export default {
-  darkMode: 'class',
+  darkMode: 'media',
   content: [
     './src/**/*.{html,js,svelte,ts}',
     // 3. Append the path to the Skeleton package
